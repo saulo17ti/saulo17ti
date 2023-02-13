@@ -32,7 +32,7 @@ Tem a função de registrar quaisquer alterações feitas em cima de um código,
 
 </br></br></br></br>
 
----
+ ---
 
 <p>
   <img width="200" align='right' src="https://github.com/saulo17ti/saulo17ti/blob/main/image/zabbix.jpg?raw=true">
@@ -58,7 +58,29 @@ Usando um software de virtualização como os providos pela VMware é possível 
 
  ---
 
+<p>
+  <img width="200" align='right' src="https://github.com/saulo17ti/saulo17ti/blob/main/image/ansible.png?raw=true">
+</p>
 
+### Ansible
+
+O Ansible é uma ferramenta de automação de código aberto usada para configurar servidores, instalar software e executar uma grande variedade de tarefas de TI a partir de uma localização central. É um mecanismo sem agente de um para muitos, onde todas as instruções são executadas a partir de uma máquina de controle que se comunica com clientes remotos em SSH, embora outros protocolos também sejam suportados.
+
+</br></br></br></br>
+
+ ---
+
+ <p>
+  <img width="190" align='left' src="https://github.com/saulo17ti/saulo17ti/blob/main/image/kubernetes.png?raw=true">
+</p>
+ 
+### Kubernetes
+
+Um sistema de orquestração de contêineres open-source que automatiza a implantação, o dimensionamento e a gestão de aplicações em contêineres.</br></br> Muitos serviços de nuvem oferecem uma plataforma baseada em Serviço (Paas ou Iaas), onde o kubernetes pode ser implantado sob serviço gerenciado.
+
+</br></br></br></br>
+
+ ---
 
 
 
